@@ -1,0 +1,9 @@
+C:\Users\roma3\source\repos\Project_3a\Project_\x64\Debug\Project_.vcxprojAssemblyReference.cache
+C:\Users\roma3\source\repos\Project_3a\Project_\x64\Debug\Project.MyForm.resources
+C:\Users\roma3\source\repos\Project_3a\Project_\x64\Debug\Project_.vcxproj.GenerateResource.cache
+D:\univer\3_sem\vich_praktika\Project_3a\Project_\x64\Debug\Project_.vcxprojAssemblyReference.cache
+D:\univer\3_sem\vich_praktika\Project_3a\Project_\x64\Debug\Project.MyForm.resources
+D:\univer\3_sem\vich_praktika\Project_3a\Project_\x64\Debug\Project_.vcxproj.GenerateResource.cache
+C:\Users\innak\OneDrive\Рабочий стол\lab3a\Project_\x64\Debug\Project_.vcxprojAssemblyReference.cache
+C:\Users\innak\OneDrive\Рабочий стол\lab3a\Project_\x64\Debug\Project.MyForm.resources
+C:\Users\innak\OneDrive\Рабочий стол\lab3a\Project_\x64\Debug\Project_.vcxproj.GenerateResource.cache
