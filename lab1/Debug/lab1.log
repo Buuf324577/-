@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(10,11): error C2039: "MyForm": не является членом "lab1".
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.h(3): message : см. объявление "lab1"
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(10,18): error C2065: MyForm: необъявленный идентификатор
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(10,18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "form"
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(10,18): error C2065: form: необъявленный идентификатор
+C:\Users\erikp\Desktop\Lab_1_v2\lab1\MyForm.cpp(11,24): error C2065: form: необъявленный идентификатор
